@@ -1,0 +1,110 @@
+.main_style {
+    margin-top: 300px;
+    background-color: #160825;
+}
+
+.login_pass_text_style {
+    margin-top: 24px;
+    width: 450px;
+    display: block;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #e6d9ef;
+    font: bold;
+    font-size: 14px;
+    margin-bottom: 8px;
+
+}
+
+.login_box { 
+    box-shadow: 0px 0px 10px #7829c7;
+    width: 450px;
+    height: 56px;
+    display: block;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #e6d9ef;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #180c1e;
+    border: 1px solid #7829c7;
+    border-radius: 10px;
+    margin-bottom: 8px;
+    
+}
+
+.wrong_pass_main {
+    margin-top: 8px;
+    display: flex;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    color: #f5f5f5;
+    height: 16px;
+    line-height: 16px;
+    
+}
+
+.info_symbol {
+    font-size: 14px;
+    height: 16px;
+    color: #e6d9ef;
+}
+
+.wrong_pass {
+    vertical-align: middle;
+    font-size: 10px;
+    margin-left: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #e6d9ef;
+}
+
+.log_in_btn {
+    box-shadow: 0px 0px 10px #7829c7;
+    margin-top: 24px;
+    width: 450px;
+    height: 56px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #7829c7;
+    border-radius: 10px;
+    background-color: #4a0689;
+    color: #e6d9ef;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.log_in_btn:hover {
+    background-color:#5e1e9c;
+}
+
+.log_in_btn:active {
+    background-color: #723da4;
+    transform: translateY(2px)
+}
+
+.forgot_pass_text {
+    text-align: center;
+    width: 450px;
+    display: block;
+    padding-left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+    font-size: 12px;
+    color: #e6d9ef;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.forgot_pass_link {
+    padding-left: 4px;
+    font-size: 12px;
+    color: #7d48af;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
