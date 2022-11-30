@@ -1,6 +1,7 @@
 .main_style {
     margin-top: 300px;
     background-color: #160825;
+    margin-bottom: 300px;
 }
 
 .login_pass_text_style {
@@ -81,11 +82,13 @@
 }
 
 .log_in_btn:hover {
+    box-shadow: 0px 0px 25px #7829c7;
     background-color:#5e1e9c;
 }
 
 .log_in_btn:active {
-    background-color: #723da4;
+    box-shadow: 0px 0px 35px #7829c7;
+    background-color: #7829c7;
     transform: translateY(2px)
 }
 

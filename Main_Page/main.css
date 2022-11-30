@@ -2,3 +2,8 @@
     margin-top: 300px;
     background-color: #160825;
 }
+
+.box_style {
+    margin-top: 40px;
+    border: 2px red;
+}
